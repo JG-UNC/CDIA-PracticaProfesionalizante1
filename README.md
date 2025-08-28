@@ -20,7 +20,8 @@ El análisis se apoya en los marcos teóricos de la **Guía PMBOK**, el modelo d
 
 ### Contenido del Repositorio
 
-- **`/docs/Evidencia de Aprendizaje I - Práctica Profesionalizante I - Guillén Jonathan Eduardo.pdf`**: Documento final en formato PDF con el análisis completo del caso, desarrollando todas las consignas solicitadas.
+
+**[Ver Evidencia de Aprendizaje en PDF](docs/Evidencia%20de%20Aprendizaje%20I%20-%20Práctica%20Profesionalizante%20I%20-%20Guillén%20Jonathan%20Eduardo.pdf)**: Documento final con el análisis completo del caso, desarrollando todas las consignas solicitadas.
 
 ### Cómo Visualizar el Trabajo
 
