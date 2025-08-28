@@ -20,7 +20,7 @@ El análisis se apoya en los marcos teóricos de la **Guía PMBOK**, el modelo d
 
 ### Contenido del Repositorio
 
-- **/Evidencia de Aprendizaje - Práctica Profesionalizante I .pdf**: Documento final en formato PDF con el análisis completo del caso, desarrollando todas las consignas solicitadas.
+- **docs/Evidencia de Aprendizaje - Práctica Profesionalizante I .pdf**: Documento final en formato PDF con el análisis completo del caso, desarrollando todas las consignas solicitadas.
 
 ### Cómo Visualizar el Trabajo
 
